@@ -1,0 +1,24 @@
+<!DOCTYPE webproject>
+<webproject>
+  <project type="Local" name="parks" encoding="utf8" >
+    <upload/>
+    <author>Aaron Emmett Crosley</author>
+    <email>acrosley108@gmail.com</email>
+    <defaultDTD>-//W3C//DTD XHTML 1.0 Transitional//EN</defaultDTD>
+    <item url="images/" uploadstatus="1" />
+    <item url="images/pngs/" uploadstatus="1" />
+    <item url="images/pngs/headermain.png" uploadstatus="1" />
+    <item url="images/headermain.gif" uploadstatus="1" />
+    <item url="contact.html" uploadstatus="1" />
+    <item url="gallery.html" uploadstatus="1" />
+    <item url="index.html" uploadstatus="1" />
+    <item url="main.css" uploadstatus="1" />
+    <item url="missionvision.html" uploadstatus="1" />
+    <item url="parks.html" uploadstatus="1" />
+    <item url="staff.html" uploadstatus="1" />
+    <item url="" uploadstatus="1" />
+    <annotations/>
+    <templates>templates/</templates>
+    <toolbars>toolbars/</toolbars>
+  </project>
+</webproject>

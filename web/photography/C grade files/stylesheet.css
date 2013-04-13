@@ -1,0 +1,38 @@
+#wrapper {
+	background-color:#00FFFF;
+	padding: 2px;
+	height: auto;
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align:center;
+}
+
+
+#header {
+	height: auto;
+	width: 980px;
+}
+
+
+#navbar {
+	width:140px;
+	height:auto;
+	float:left;
+	padding-left:2px;
+	padding-right:2px;
+}
+
+#content {
+	width:780px;
+	height:auto;
+	float:left;
+	padding-left:2px;
+	padding-right:2px;
+}
+
+#footer	{
+	height: auto;
+	width: 980px;
+	clear:both;
+}

@@ -1,0 +1,2 @@
+-Create Function to Import ten words from STDIN seperated by \n's
+-Create function to Compare the letters of each input to each word in the wordlist

@@ -1,0 +1,20 @@
+Write a program to determine the day of week a person was born, given his or her birth date. Use the following algorithm to find the day of the week corresponding to any date in the 20th century.
+
+a. Divide the last two digits of the birth year by 4. Put the quotient (ignoring the remainder) in total.
+b. Add the last two digits of the year to total.
+c. Add the last two digits of the day of birth to total.
+d. Use the following table to find the month number and add it to total.
+January = 1 February = 4 March = 4 April = 0
+May = 2 June = 5 July = 0 August = 3
+September = 6 October = 1 November = 4
+December = 6
+e. If the year is a leap year (year mod 4 = 0) and if the month is January or February subtract 1 from total.
+f. Divide total by 7 and use the remainder to find the day of the week an individual was born.
+1 = Sunday 2 = Monday 3 = Tuesday 4 = Wednesday
+5 = Thursday 6 = Friday 0 = Saturday
+
+
+Prompt the user to enter the month, day and year of birth one at a time. Output the day of the week that the person was born.
+
+Dates prior to 1900 and after 1999 will not work.
+Display an appropriate message if the date entered is out of range.
